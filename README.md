@@ -1,4 +1,4 @@
-# name_to_NATO_pneumonic
+# name_to_NATO_pneumonic (STARTING CODE)
 student_dict = {
     "student": ["Angela", "James", "Lily"], 
     "score": [56, 76, 98]
